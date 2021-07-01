@@ -1,0 +1,31 @@
+Sistema de Supermercado
+Seu Joaquim é dono do supermercado "Que Barato" e quer automatizar os processos
+para a contabilização dos lucros de seu negócio. Para tanto, ele quer conhecer quanto
+o supermercado Que Barato vende ao final do dia e ao final do mês. Em um primeiro
+momento o sistema irá contabilizar a venda de quatro produtos específicos:
+1 - Arroz: 27,00 R$
+2 - Óleo: 10,00 R$
+3 - Carne contrafilé: 38,00 R$
+4 - Sabão em pó Omo: 12,00 R$
+A/o funcionária/funcionário do seu Joaquim utilizará o sistema durante todo o seu
+expediente de trabalho e registrará os valores vendidos de cada produto, o número de
+produtos vendidos para cada item e a média de vendas diárias e mensais do
+supermercado.
+O algoritmo deve apresentar um menu com as seguintes opções:
+1 – Registrar venda de arroz
+2 – Registrar venda de óleo
+3 – Registrar venda de carne
+4 – Registrar venda de sabão
+5 – Sair do Sistema
+Vale destacar que o expediente de trabalho da funcionária/funcionário é de oito horas
+sendo esse o tempo operacional do sistema. Caberá a você definir um critério de
+parada para o registro diário.
+Além disto, deverá ser apresentado um menu que permita apresentar, conforme a
+opção escolhida pelo seu Joaquim, a o valor das vendas diárias, ou o número de
+produtos vendidos ou as vendas mensais.
+1 – Relatório de vendas diárias
+2 – Relatório de vendas mensais
+3 – Número de produtos vendidos
+Vale destacar que o expediente de trabalho da funcionária/funcionário é de oito horas
+sendo esse o tempo operacional do sistema. Caberá a você definir um critério de
+parada para o registro diário.

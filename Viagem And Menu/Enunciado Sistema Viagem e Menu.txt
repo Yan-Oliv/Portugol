@@ -1,0 +1,76 @@
+1 - Criar um algoritmo que leia o destino do passageiro, se a viagem inclui retorno (ida e volta) e informar o preço da passagem conforme a tabela:
+
+
+Destino
+
+=================================
+Região norte
+=================================
+
+R$500,00 - Ida
+
+R$900,00 - Ida e volta
+
+=================================
+Região nordeste
+=================================
+
+R$350,00 - Ida
+
+R$650,00 - Ida e volta
+
+=================================
+Região centro-oeste
+=================================
+
+R$350,00 - Ida
+
+R$600,00 - Ida e volta
+
+=================================
+Região sul
+=================================
+
+R$300,00 - Ida
+
+R$550,00 - Ida e volta
+
+
+2- Criar um algoritmo que informe a quantidade total de calorias de uma refeição a partir da escolha do usuário que deverá informar o prato, a sobremesa e bebida (veja a tabela a seguir).
+
+ 
+=================================
+            Prato
+=================================
+
+Vegetariano 180cal
+
+Peixe 230cal
+
+Frango 250cal
+
+Carne350cal
+
+=================================
+           Sobremesa
+=================================
+
+Abacaxi 75cal
+
+Sorvete diet 110cal
+
+Mousse diet 170cal
+
+Mousse chocolate 200cal
+
+=================================
+             Bebida
+=================================
+
+Chá 20cal
+
+Suco de laranja 70cal
+
+Suco de melão 100cal
+
+Refrigerante diet 65cal
